@@ -1,0 +1,10 @@
+{
+  "label": "brain_g0",
+  "color": "brain",
+  "game": 0,
+  "timestamp": "2026-04-18 11:17:56",
+  "nodes": 128,
+  "edges": 288,
+  "cognitive": 19,
+  "tools": 3
+}

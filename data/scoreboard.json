@@ -1,0 +1,28 @@
+{
+ "black_wins": 0,
+ "white_wins": 1,
+ "draws": 0,
+ "games": [
+  {
+   "game": 1,
+   "winner": "White",
+   "black_score": 4,
+   "white_score": 141.5,
+   "margin": 137.5,
+   "moves": 120,
+   "b_captures": 3,
+   "w_captures": 59,
+   "time": "18:04:29",
+   "phase": "train",
+   "timeouts": 0,
+   "fallbacks": 0,
+   "retries": 0,
+   "parse_methods": {
+    "MOVE:r,c": 60
+   },
+   "avg_latency": 35.9,
+   "duration": 24352.7
+  }
+ ],
+ "total_games": 1
+}
